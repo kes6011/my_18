@@ -1,0 +1,6 @@
+{
+  "name": "EduMatch Agent",
+  "description": "University educational opportunities dashboard with AI matching, schedule conflict detection, and application draft generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

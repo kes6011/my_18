@@ -1,11 +1,25 @@
-<div align="center">
+# EduMatch Agent
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+> **University educational matching & schedule-based application preparation Agent**
 
-  <h1>Built with AI Studio</h2>
+EduMatch Agent is a React-based web application designed to help university students discover and apply for educational opportunities (AI Agent training, Cloud workshops, Hackathons, etc.) that best fit their interests, skills, and schedules.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Key Features
+- **Smart Opportunity Board**: Categorized display of university notices.
+- **AI-Powered Matching**: Real-time status assessment (Matched, Conflict, Review Required) based on user profile.
+- **Schedule Conflict Detection**: Automatic detection of overlaps between program schedules and user's academic calendar.
+- **AI Email Draft Generator**: One-click generation of professional inquiry and application emails.
+- **Local Workspace**: All data is securely persisted in the browser's `localStorage`.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠 Tech Stack
+- **Framework**: React 19 + TypeScript
+- **Styling**: Tailwind CSS
+- **Animation**: Motion (framer-motion)
+- **Icons**: Lucide React
+- **Build Tool**: Vite
 
-</div>
+## 📦 Installation
+```bash
+npm install
+npm run dev
+```
